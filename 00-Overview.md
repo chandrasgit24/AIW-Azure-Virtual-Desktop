@@ -1,6 +1,6 @@
 # Overview
    
-Azure Virtual Desktop is a desktop and app virtualization service that runs on the cloud.
+**Azure Virtual Desktop** is a desktop and app virtualization service that runs on the cloud.
 
 Here's what you can do when you run Azure Virtual Desktop on Azure:
 
